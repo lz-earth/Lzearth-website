@@ -165,8 +165,9 @@ export const siteConfig: SiteConfig = {
 			title: "地球人の小屋", // 主页横幅主标题
 
 			subtitle: [
-				"Our Wrenally理论值",
-				"Calamity Fortune理论值",
+				"Our Wrenally理论值取得！！！",
+				"Calamity Fortune理论值取得！！！",
+
 			],
 			typewriter: {
 				enable: true, // 启用副标题打字机效果
