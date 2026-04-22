@@ -165,8 +165,9 @@ export const siteConfig: SiteConfig = {
 			title: "地球人の小屋", // 主页横幅主标题
 
 			subtitle: [
-				"Our Wrenally理论值取得！！！",
-				"Calamity Fortune理论值取得！！！",
+				"Our Wrenally理论值！！！",
+				"Calamity Fortune理论值！！！",
+				"小说持续更新中......"
 
 			],
 			typewriter: {
@@ -277,13 +278,13 @@ export const navBarConfig: NavBarConfig = {
 			children: [
 				{
 					name: "GitHub",
-					url: "https://github.com/LyraVoid/Mizuki",
+					url: "https://github.com/lz-earth",
 					external: true,
 					icon: "fa7-brands:github",
 				},
 				{
 					name: "Bilibili",
-					url: "https://space.bilibili.com/701864046",
+					url: "https://space.bilibili.com/174895850",
 					external: true,
 					icon: "fa7-brands:bilibili",
 				},
@@ -377,7 +378,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "Bilibili",
 			icon: "fa7-brands:bilibili",
-			url: "https://space.bilibili.com/701864046",
+			url: "https://space.bilibili.com/174895850",
 		},
 		{
 			name: "Gitee",
